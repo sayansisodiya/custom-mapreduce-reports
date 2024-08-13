@@ -1,5 +1,5 @@
 # Custom MapReduce Reports
-Reports describing custom implementation of distributed grep, gossip membership protocol, HDFS, and MapReduce in Go. The fi
+Reports describing custom implementation of distributed grep, gossip membership protocol, HDFS, and MapReduce in Go.
 
 ## Disclaimer and Context
 This project was done as part of CS 425 (Distributed Systems) at UIUC in Fall 2023. As such, I cannot make the code public, but I have attached the reports from each stage of the project process (distributed grep, gossip membership protocol, HDFS, and MapReduce). This project was done in collaboration with Vraj Patel, another student.
